@@ -1,1 +1,1 @@
-Lab 5: More Bash and Intro to Git
+Stat 133 Lab 5: More Bash and Intro to Git
